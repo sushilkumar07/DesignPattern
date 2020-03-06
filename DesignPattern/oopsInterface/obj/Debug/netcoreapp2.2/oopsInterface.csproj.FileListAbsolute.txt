@@ -1,0 +1,11 @@
+C:\Users\SShinde\Desktop\ProjectWork\DesignPattern\oopsInterface\bin\Debug\netcoreapp2.2\oopsInterface.deps.json
+C:\Users\SShinde\Desktop\ProjectWork\DesignPattern\oopsInterface\bin\Debug\netcoreapp2.2\oopsInterface.runtimeconfig.json
+C:\Users\SShinde\Desktop\ProjectWork\DesignPattern\oopsInterface\bin\Debug\netcoreapp2.2\oopsInterface.runtimeconfig.dev.json
+C:\Users\SShinde\Desktop\ProjectWork\DesignPattern\oopsInterface\bin\Debug\netcoreapp2.2\oopsInterface.dll
+C:\Users\SShinde\Desktop\ProjectWork\DesignPattern\oopsInterface\bin\Debug\netcoreapp2.2\oopsInterface.pdb
+C:\Users\SShinde\Desktop\ProjectWork\DesignPattern\oopsInterface\obj\Debug\netcoreapp2.2\oopsInterface.csprojAssemblyReference.cache
+C:\Users\SShinde\Desktop\ProjectWork\DesignPattern\oopsInterface\obj\Debug\netcoreapp2.2\oopsInterface.csproj.CoreCompileInputs.cache
+C:\Users\SShinde\Desktop\ProjectWork\DesignPattern\oopsInterface\obj\Debug\netcoreapp2.2\oopsInterface.AssemblyInfoInputs.cache
+C:\Users\SShinde\Desktop\ProjectWork\DesignPattern\oopsInterface\obj\Debug\netcoreapp2.2\oopsInterface.AssemblyInfo.cs
+C:\Users\SShinde\Desktop\ProjectWork\DesignPattern\oopsInterface\obj\Debug\netcoreapp2.2\oopsInterface.dll
+C:\Users\SShinde\Desktop\ProjectWork\DesignPattern\oopsInterface\obj\Debug\netcoreapp2.2\oopsInterface.pdb
