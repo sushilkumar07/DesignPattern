@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\DesignPattern\\whenshouldweuseanabstractclass\\whenshouldweuseanabstractclass\\whenshouldweuseanabstractclass.csproj",
+      "projectUniqueName": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\GitDesignPattern\\DesignPattern\\DesignPattern\\whenshouldweuseanabstractclass\\whenshouldweuseanabstractclass\\whenshouldweuseanabstractclass.csproj",
       "projectName": "whenshouldweuseanabstractclass",
-      "projectPath": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\DesignPattern\\whenshouldweuseanabstractclass\\whenshouldweuseanabstractclass\\whenshouldweuseanabstractclass.csproj",
+      "projectPath": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\GitDesignPattern\\DesignPattern\\DesignPattern\\whenshouldweuseanabstractclass\\whenshouldweuseanabstractclass\\whenshouldweuseanabstractclass.csproj",
       "packagesPath": "C:\\Users\\SShinde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\DesignPattern\\whenshouldweuseanabstractclass\\whenshouldweuseanabstractclass\\obj\\",
+      "outputPath": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\GitDesignPattern\\DesignPattern\\DesignPattern\\whenshouldweuseanabstractclass\\whenshouldweuseanabstractclass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

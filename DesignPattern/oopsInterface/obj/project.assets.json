@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\DesignPattern\\oopsInterface\\oopsInterface.csproj",
+      "projectUniqueName": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\GitDesignPattern\\DesignPattern\\DesignPattern\\oopsInterface\\oopsInterface.csproj",
       "projectName": "oopsInterface",
-      "projectPath": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\DesignPattern\\oopsInterface\\oopsInterface.csproj",
+      "projectPath": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\GitDesignPattern\\DesignPattern\\DesignPattern\\oopsInterface\\oopsInterface.csproj",
       "packagesPath": "C:\\Users\\SShinde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\DesignPattern\\oopsInterface\\obj\\",
+      "outputPath": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\GitDesignPattern\\DesignPattern\\DesignPattern\\oopsInterface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

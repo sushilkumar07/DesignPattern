@@ -8,6 +8,10 @@ namespace SingletonDesignPattern
        What is the difference between lazy and eager instantiation? Why does it matter?
        Are singletons a good pattern to use?
        How do singletons affect testing?
+       -    Singletons are not a good coding practice as they cause
+            high coupling and violate dependency injection principles.  
+            This makes code really hard to test.  
+            Any object making use of a singleton needs to use a static method to get access to it.  This means it is not being “injected” in and so cannot be stubbed out for use in testing. 
 
     */
     public sealed class Singleton

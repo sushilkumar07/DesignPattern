@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\DesignPattern\\SingletonDesignPattern\\SingletonDesignPattern.csproj",
+      "projectUniqueName": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\GitDesignPattern\\DesignPattern\\DesignPattern\\SingletonDesignPattern\\SingletonDesignPattern.csproj",
       "projectName": "SingletonDesignPattern",
-      "projectPath": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\DesignPattern\\SingletonDesignPattern\\SingletonDesignPattern.csproj",
+      "projectPath": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\GitDesignPattern\\DesignPattern\\DesignPattern\\SingletonDesignPattern\\SingletonDesignPattern.csproj",
       "packagesPath": "C:\\Users\\SShinde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\DesignPattern\\SingletonDesignPattern\\obj\\",
+      "outputPath": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\GitDesignPattern\\DesignPattern\\DesignPattern\\SingletonDesignPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

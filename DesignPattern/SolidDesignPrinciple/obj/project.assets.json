@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\DesignPattern\\SolidDesignPrinciple\\SolidDesignPrinciple.csproj",
+      "projectUniqueName": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\GitDesignPattern\\DesignPattern\\DesignPattern\\SolidDesignPrinciple\\SolidDesignPrinciple.csproj",
       "projectName": "SolidDesignPrinciple",
-      "projectPath": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\DesignPattern\\SolidDesignPrinciple\\SolidDesignPrinciple.csproj",
+      "projectPath": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\GitDesignPattern\\DesignPattern\\DesignPattern\\SolidDesignPrinciple\\SolidDesignPrinciple.csproj",
       "packagesPath": "C:\\Users\\SShinde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\DesignPattern\\SolidDesignPrinciple\\obj\\",
+      "outputPath": "C:\\Users\\SShinde\\Desktop\\ProjectWork\\GitDesignPattern\\DesignPattern\\DesignPattern\\SolidDesignPrinciple\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
