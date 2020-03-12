@@ -12,3 +12,10 @@ C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPatter
 C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
 C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
 C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
+C:\MyDevelopment\DesignPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\MyDevelopment\DesignPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\MyDevelopment\DesignPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\MyDevelopment\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojAssemblyReference.cache
+C:\MyDevelopment\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\MyDevelopment\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\MyDevelopment\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
