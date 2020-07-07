@@ -1,0 +1,6 @@
+C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\static-non-static-constructors\static-non-static-constructors\bin\Debug\static-non-static-constructors.exe
+C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\static-non-static-constructors\static-non-static-constructors\bin\Debug\static-non-static-constructors.pdb
+C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\static-non-static-constructors\static-non-static-constructors\obj\Debug\static-non-static-constructors.csprojAssemblyReference.cache
+C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\static-non-static-constructors\static-non-static-constructors\obj\Debug\static-non-static-constructors.csproj.CoreCompileInputs.cache
+C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\static-non-static-constructors\static-non-static-constructors\obj\Debug\static-non-static-constructors.exe
+C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\static-non-static-constructors\static-non-static-constructors\obj\Debug\static-non-static-constructors.pdb
