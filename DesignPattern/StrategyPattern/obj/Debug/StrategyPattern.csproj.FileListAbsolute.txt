@@ -8,7 +8,6 @@ C:\Users\SShinde\Desktop\ProjectWork\DesignPattern\StrategyPattern\obj\Debug\Str
 C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
 C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
 C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
-C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojAssemblyReference.cache
 C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
 C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
 C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb

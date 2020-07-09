@@ -14,9 +14,9 @@ C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPatter
 C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\SolidDesignPrinciple\bin\Debug\netcoreapp2.2\SolidDesignPrinciple.runtimeconfig.dev.json
 C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\SolidDesignPrinciple\bin\Debug\netcoreapp2.2\SolidDesignPrinciple.dll
 C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\SolidDesignPrinciple\bin\Debug\netcoreapp2.2\SolidDesignPrinciple.pdb
-C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\SolidDesignPrinciple\obj\Debug\netcoreapp2.2\SolidDesignPrinciple.csprojAssemblyReference.cache
 C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\SolidDesignPrinciple\obj\Debug\netcoreapp2.2\SolidDesignPrinciple.csproj.CoreCompileInputs.cache
 C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\SolidDesignPrinciple\obj\Debug\netcoreapp2.2\SolidDesignPrinciple.AssemblyInfoInputs.cache
 C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\SolidDesignPrinciple\obj\Debug\netcoreapp2.2\SolidDesignPrinciple.AssemblyInfo.cs
 C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\SolidDesignPrinciple\obj\Debug\netcoreapp2.2\SolidDesignPrinciple.dll
 C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\SolidDesignPrinciple\obj\Debug\netcoreapp2.2\SolidDesignPrinciple.pdb
+C:\Users\SShinde\Desktop\ProjectWork\GitDesignPattern\DesignPattern\DesignPattern\SolidDesignPrinciple\obj\Debug\netcoreapp2.2\SolidDesignPrinciple.genruntimeconfig.cache

@@ -23,7 +23,7 @@ namespace ObjectOnDemand_LazyInitialization
         static void Main(string[] args)
         {
             LazyCustomer lazyCustomer = new LazyCustomer(1, "MyLazyCustomer");
-            lazyCustomer.SetOrdersRetrieval(OrdersDatabase.GetOrders);
+           // lazyCustomer.SetOrdersRetrieval(OrdersDatabase.GetOrders);
 
             foreach (Order order in lazyCustomer.Orders)
             {

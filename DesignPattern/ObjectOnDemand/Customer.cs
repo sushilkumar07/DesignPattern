@@ -21,7 +21,7 @@ namespace ObjectOnDemand_LazyInitialization
             {
                 if (_orders == null)
                 {
-                    _orders = OrdersDatabase.GetOrders(CustomerID);
+                    //_orders = OrdersDatabase.GetOrders(CustomerID);
                 }
                 return _orders;
             }
